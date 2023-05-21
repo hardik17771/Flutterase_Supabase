@@ -1,7 +1,7 @@
 # Project Description: Flutterase
 The Flutterase is a comprehensive mobile app designed to connect, educate, empower developers and to connect with the GDG (Google Developer Group) community. This unique platform serves as a centralized portal and forum, providing a one-stop solution for enthusiasts and beginners alike to explore and learn about Google's cutting-edge frameworks such as Flutter, Firebase and to know about more budget friendly and exclusive backend service Supabase.
 
-## Check out the Hosted App on [Flutterflow link](https://flutterase-5j7aqp.flutterflow.app/))
+## Check out the Hosted App on [Flutterflow link](https://flutterase-5j7aqp.flutterflow.app/)
 
 ## Check out the Demo Video on [https://youtu.be/XwtknFiYMC8](https://youtu.be/XwtknFiYMC8)
 
