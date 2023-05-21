@@ -3,11 +3,14 @@ The Flutterase is a comprehensive mobile app designed to connect, educate, empow
 
 ## Check out the Hosted App on [Flutterflow link](https://flutterase-5j7aqp.flutterflow.app/))
 
+## Check out the Demo Video on [https://youtu.be/XwtknFiYMC8](https://youtu.be/XwtknFiYMC8)
+
 ### Team Members Social Handles
 
 #### Hardik Sachdeva  [Github ](https://github.com/hardik17771) [Twitter](https://twitter.com/hardikkk_77)
 #### Mehul Aggarwal  [Github ](https://github.com/AceHunterr) [Twitter](https://twitter.com/Dharuva2)
 #### Dharuva Thakur  [Github ](https://github.com/Dharuva) [Twitter](https://github.com/AceHunterr)
+
 
 ## Supabase Integration
 
