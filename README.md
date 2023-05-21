@@ -1,7 +1,7 @@
 # Project Description: Flutterase
 The Flutterase is a comprehensive mobile app designed to connect, educate, empower developers and to connect with the GDG (Google Developer Group) community. This unique platform serves as a centralized portal and forum, providing a one-stop solution for enthusiasts and beginners alike to explore and learn about Google's cutting-edge frameworks such as Flutter, Firebase and to know about more budget friendly and exclusive backend service Supabase.
 
-### Check out the Hosted App on [Flutterflow link](https://www.example.com)
+## Check out the Hosted App on [Flutterflow link](https://www.example.com)
 
 ### Team Members Social Handles
 
@@ -31,8 +31,24 @@ Supabase Storage was used to store images and links that are integral to our app
 
 By leveraging Supabase's comprehensive features, including user authentication, profile management, real-time data fetching, and storage capabilities, we were able to build a robust and dynamic app that offers a seamless user experience. Supabase played a vital role in simplifying our backend development and empowering us to focus on delivering an exceptional user interface and functionality.
 
+## Instructions to use our App
 
-## Explore Google Frameworks
+1. *Login/Register*: Upon launching the app, the login/register page will appear. New users can register using their email, and a confirmation email will be sent to the provided email address. Once registered, users can log in using their email and password.
+
+2. *Home Tab*: After logging in, users will be directed to the Home Screen. Here, they will find various Framework options to explore. They can choose to browse the various options such as projects source codes, documentation and tutorials after selecting.
+
+3. *Learning Screens*: If a user selects a specific framework, such as Flutter, they will be redirected to the corresponding framework page within the app. On this page, users can access resources related to that framework, including documentation, GitHub projects, and YouTube tutorials. By selecting any of these options, users will be redirected to the respective pages to start learning.
+
+4. *Forum/Feed Tab*: The app includes a dedicated forum or feed page where users can ask queries about the frameworks or seek assistance with errors or issues they may encounter. They can engage with the community by posting questions, sharing their experiences, and receiving support from fellow developers.
+
+5. *Events Tab*: The app also features an events page that provides dates and details about upcoming GDG events and other Google events and conferences. Users can stay informed about the latest events and plan their participation accordingly.
+
+6. *People and Community*: To foster connection and collaboration, the app includes a people and community page. Users can browse through profiles of community members to get to know them better and build relationships within the GDG network.
+
+By following these navigation steps, users can effectively utilize the various features and resources available in the Flutterase app. The structured flow ensures easy access to learning materials, engagement with the community, staying updated on events, and connecting with like-minded developers.
+
+
+## Explore and Learn
 
 Say goodbye to the overwhelming search for scattered resources, Our app goes beyond offering in-depth resources and dedicated pages for each framework. Whether you're a newcomer or an experienced developer, you'll find a wealth of knowledge at your fingertips. These framework pages curate valuable information, including Documentation, insightful YouTube tutorials, and essential GitHub projects. ; everything you need is conveniently organized within each framework page located at the Home Tab from the NavBar.
 
